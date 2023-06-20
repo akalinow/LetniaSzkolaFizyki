@@ -8,7 +8,7 @@
 
 Notebooks for lecture on ML on 
 [Summer School of Physics](https://www.fuw.edu.pl/wo/lsf/) 
-at University of Warsaw. Material are in Polish.
+at University of Warsaw. Materials are in Polish.
 
 * the notebook is presented as presentation using the RISE Jupyter extension
 * the notebook can be run in Google Colaboratory  environment
